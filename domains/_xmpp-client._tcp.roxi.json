@@ -10,6 +10,5 @@
         "port": 5222,
         "target": "xmpp.roxi.is-a.dev"
     }]
-  },
-  "proxied": true
+  }
 }
