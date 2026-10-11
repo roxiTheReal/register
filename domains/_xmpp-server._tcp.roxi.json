@@ -4,11 +4,13 @@
     "email": "aetheron.inc@proton.me"
   },
   "records": {
-    "SRV": [{
+    "SRV": [
+      {
         "priority": 0,
         "weight": 5,
         "port": 5269,
         "target": "xmpp.roxi.is-a.dev"
-    }]
+      }
+    ]
   }
 }
